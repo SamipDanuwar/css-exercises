@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+
+/* so, use . for class and # for id. */
+
+.odd-num {
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    
+}
+
+#even-num {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+/* this is the second class used in element 2. Don't get confused you did it. Just remember the element has 2 classes and css is written like this cause odd-num class css is already written above. */
+.second {
+    font-size: 24px;
+}
+
+#num-four {
+    background-color: #90ee90;
+    font-weight: bold;
+
+}
